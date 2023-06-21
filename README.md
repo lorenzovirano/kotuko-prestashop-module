@@ -1,0 +1,1 @@
+# kotuko-prestashop-module
